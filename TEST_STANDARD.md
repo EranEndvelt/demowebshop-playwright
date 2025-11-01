@@ -93,4 +93,4 @@ Verify that a customer can access the website, register successfully, and add a 
     - Cart heading is visible.  
     - Product name in the cart matches exactly the selected product name.  
 
-- **✅ Test execution completes without uncaught errors or timeouts.**
+- *Test execution finishes successfully with no unhandled errors or timeouts.*
